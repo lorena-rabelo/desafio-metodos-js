@@ -11,3 +11,15 @@ Ordene os inventores pela idade que tinha quando morreu, do mais velho para o ma
 
 ### Questão 4 - Usando reduce()
 Qual a quantidade total de anos que todos os inventores viveram (soma de todas as idades)
+
+>const inventores = [
+>
+>  { nome: 'Albert', sobrenome: 'Einstein', nasc: 1879, morte: 1955 },                       
+>  { nome: 'Isaac', sobrenome: 'Newton', nasc: 1643, morte: 1727 },                              
+>  { nome: 'Galileo', sobrenome: 'Galilei', nasc: 1564, morte: 1642 },                       
+>  { nome: 'Marie', sobrenome: 'Curie', nasc: 1867, morte: 1934 },                    
+>  { nome: 'Johannes', sobrenome: 'Kepler', nasc: 1571, morte: 1630 },                         
+>  { nome: 'Nicolaus', sobrenome: 'Copernicus', nasc: 1473, morte: 1543 },                       
+>  { nome: 'Max', sobrenome: 'Planck', nasc: 1858, morte: 1947 }                                
+>
+>]
